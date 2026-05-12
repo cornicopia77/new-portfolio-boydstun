@@ -159,7 +159,7 @@ a:focus-visible {
   background: transparent;
 }
 
-/* ---------- Status dot ---------- */
+/* ---------- Status dot ----------  "on the fly"*/
 .dot {
   display: inline-block;
   width: 0.7em; height: 0.7em;
