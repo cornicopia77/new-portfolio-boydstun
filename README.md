@@ -2,7 +2,7 @@
 
 ## Official Communications Notice
 
-This notice establishes the preferred communication procedure regarding any interest in Storyline LLC, its media strategy, advertising concepts, marketing tactics, engineering work, or related business activities.
+This notice establishes the preferred communication procedure regarding any interest in The Hemour LLC, its media strategy, advertising concepts, marketing tactics, engineering work, or related business activities.
 
 Any individual, organization, or representative seeking information about:
 
